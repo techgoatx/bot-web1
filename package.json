@@ -1,0 +1,15 @@
+{
+  "name": "aman-web",
+  "version": "1.0.0",
+  "description": "AMAN MD Files Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.8.1",
+    "dotenv": "^16.4.7"
+  },
+  "author": "Aᴍᴀɴ TᴇᴄʜX 🏳️"
+}
